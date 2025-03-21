@@ -1,0 +1,72 @@
+name: game_app_architecture_mvvm
+description: "Game app"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # For caching images => https://pub.dev/packages/cached_network_image
+  cached_network_image: ^3.4.1
+
+  # For state management => https://pub.dev/packages/flutter_bloc
+  flutter_bloc: ^9.1.0
+
+  # For network requests => https://pub.dev/packages/dio
+  dio: ^5.8.0+1
+
+  # For dependency injection => https://pub.dev/packages/get_it
+  get_it: ^8.0.3
+
+  # For equality => https://pub.dev/packages/equatable
+  equatable: ^2.0.7
+
+  # For code generation and immutable data classes => https://pub.dev/packages/freezed_annotation
+  freezed_annotation: ^2.4.4
+
+  # For working with SVG format images => https://pub.dev/packages/flutter_svg
+  flutter_svg: ^2.0.17
+
+  # For local data storage using Hive => https://pub.dev/packages/hive_flutter
+  hive_flutter: ^1.1.0
+
+  # For app data directories => https://pub.dev/packages/path_provider
+  path_provider: ^2.1.5
+
+  # For shimmer effect => https://pub.dev/packages/shimmer
+  shimmer: ^3.0.0
+
+  # For handling and manipulating file paths => https://pub.dev/packages/path
+  path: ^1.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Linting rules for Flutter projects
+  flutter_lints: ^5.0.0
+
+  # Code generation tools
+  build_runner: ^2.4.15
+  freezed: ^2.5.7
+  hive_generator: ^2.0.1
+  mockito: ^5.4.5
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: SpaceGrotesk
+      fonts:
+        - asset: assets/fonts/space_gro_tesk/SpaceGrotesk-Bold.ttf
+        - asset: assets/fonts/space_gro_tesk/SpaceGrotesk-Light.ttf
+        - asset: assets/fonts/space_gro_tesk/SpaceGrotesk-Medium.ttf
+        - asset: assets/fonts/space_gro_tesk/SpaceGrotesk-Regular.ttf
+        - asset: assets/fonts/space_gro_tesk/SpaceGrotesk-SemiBold.ttf

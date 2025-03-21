@@ -1,0 +1,2 @@
+/Users/jc-m1/Desktop/flutter projects/game_app_architecture_mvvm/android/app/.cxx/Debug/1c5i3bn4/x86/CMakeFiles/edit_cache.dir
+/Users/jc-m1/Desktop/flutter projects/game_app_architecture_mvvm/android/app/.cxx/Debug/1c5i3bn4/x86/CMakeFiles/rebuild_cache.dir

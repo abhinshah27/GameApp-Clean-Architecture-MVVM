@@ -1,0 +1,2 @@
+/Users/jc-m1/Desktop/flutter projects/flutter_best_practices_showcase/android/app/.cxx/Debug/5l3c2x4j/x86_64/CMakeFiles/edit_cache.dir
+/Users/jc-m1/Desktop/flutter projects/flutter_best_practices_showcase/android/app/.cxx/Debug/5l3c2x4j/x86_64/CMakeFiles/rebuild_cache.dir
