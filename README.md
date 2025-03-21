@@ -35,7 +35,7 @@ ___
 
 ## UI design
 
- <p><img src="https://github.com/ahmedjc935/dummy_testing/blob/main/screen_shot.png?raw=true"><p/>
+ <p><img src="screenshot/app_ui.png"><p/>
 
 ## Getting Started
 
