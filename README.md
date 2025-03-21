@@ -39,7 +39,7 @@ ___
 
 ## UI design
 
- <p><img src="screenshot/app_ui.png" alt="This is the app ui"></p>>
+ <p><img src="screenshot/app_ui.jpg" alt="This is the app ui"></p>>
 
 ## Getting Started
 
