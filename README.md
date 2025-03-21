@@ -1,7 +1,12 @@
 # Flutter architecutre demo Using MVVM With Clean Architecture and Bloc state management
 
 ### 📌 About this project:
-This Flutter application fetches and displays a list of games from an external API, providing detailed game information, sorting options, and a favorites feature. Built with clean and testable architecture, the project ensures scalability and maintainability. It follows best practices, using Flutter BLoC for state management and Hive for local storage, delivering a seamless and efficient user experience. 🚀
+
+This Flutter application fetches and displays a list of games from an external API, providing
+detailed game information, sorting options, and a favorites feature. Built with clean and testable
+architecture, the project ensures scalability and maintainability. It follows best practices, using
+Flutter BLoC for state management and Hive for local storage, delivering a seamless and efficient
+user experience. 🚀
 
 ## ✨ Features
 
@@ -22,20 +27,19 @@ This Flutter application fetches and displays a list of games from an external A
 
 ### Exploration Summary
 
-
-| State Manager | Applied | Unit tests | Widget tests | Integration tests |  
-| ------------- | ------- | :--------: | ------------ |------------------ | 
-| Flutter bloc  | Yes     |    Coming soon      | Coming soon| Coming soon|
+| State Manager | Applied | Unit tests  | Widget tests | Integration tests |  
+|---------------|---------|:-----------:|--------------|-------------------| 
+| Flutter bloc  | Yes     | Coming soon | Coming soon  | Coming soon       |
 
 ___
 
 ### API Used:
-* https://www.freetogame.com/api-doc
 
+* https://www.freetogame.com/api-doc
 
 ## UI design
 
- <p><img src="screenshot/app_ui.png"><p/>
+ <p><img src="screenshot/app_ui.png" alt="This is the app ui"></p>>
 
 ## Getting Started
 
